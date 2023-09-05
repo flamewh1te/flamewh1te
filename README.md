@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'am <a href="https://kwockeeez.github.io/" target="_blank">はちじゅうさん Yan</a> 
+<h1 align="center">Hi there, I'am <a href="https://takhtaulov.github.io/" target="_blank">Yan Takhtaulov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Ukraine 🇺🇦</h3>
 
@@ -11,8 +11,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takhtaulov&layout=compact&hide_border=true&langs_count=6" />
 </a>
-
-![snake gif](https://github.com/kwockeeez/kwockeeez/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 kwockeeez/kwockeeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
