@@ -3,16 +3,3 @@
 <h3 align="center">Computer science student from Ukraine 🇺🇦</h3>
 
 <p align="center"><a href="https://kwockeeez.github.io"><img width="100%" src="./images/wallpaper.png" /></a></p>
-
-### Contributions stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=takhtaulov&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits&hide_border=true" />
-</a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takhtaulov&layout=compact&hide_border=true&langs_count=6" />
-</a>
-
-<!---
-kwockeeez/kwockeeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
